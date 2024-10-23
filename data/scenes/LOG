@@ -1,0 +1,37 @@
+2024/10/21-20:20:22.445 718 Recovering log #17
+2024/10/21-20:20:22.457 718 Level-0 table #22: started
+2024/10/21-20:20:22.473 718 Level-0 table #22: 658226 bytes OK
+2024/10/21-20:20:22.479 718 Delete type=0 #17
+2024/10/21-20:20:22.479 718 Delete type=3 #10
+2024/10/21-20:20:23.242 51d8 Moved #22 to level-1 658226 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2024/10/21-20:20:23.245 51d8 Compacting 1@1 + 2@2 files
+2024/10/21-20:20:23.307 51d8 Generated table #24@1: 7520 keys, 2141654 bytes
+2024/10/21-20:20:23.350 51d8 Generated table #25@1: 10536 keys, 1370874 bytes
+2024/10/21-20:20:23.350 51d8 Compacted 1@1 + 2@2 files => 3512528 bytes
+2024/10/21-20:20:23.351 51d8 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/21-20:20:23.351 51d8 Delete type=2 #19
+2024/10/21-20:20:23.351 51d8 Delete type=2 #20
+2024/10/21-20:20:23.352 51d8 Delete type=2 #22
+2024/10/21-20:44:00.311 51d8 Level-0 table #27: started
+2024/10/21-20:44:00.363 51d8 Level-0 table #27: 1348865 bytes OK
+2024/10/21-20:44:00.380 51d8 Delete type=0 #23
+2024/10/21-21:12:22.807 51d8 Level-0 table #29: started
+2024/10/21-21:12:22.846 51d8 Level-0 table #29: 1451164 bytes OK
+2024/10/21-21:12:22.850 51d8 Delete type=0 #26
+2024/10/21-21:34:17.096 51d8 Level-0 table #31: started
+2024/10/21-21:34:17.181 51d8 Level-0 table #31: 1618582 bytes OK
+2024/10/21-21:34:17.190 51d8 Delete type=0 #28
+2024/10/21-21:48:52.144 51d8 Compacting 2@0 + 1@1 files
+2024/10/21-21:48:52.274 51d8 Generated table #32@0: 7027 keys, 2141716 bytes
+2024/10/21-21:48:52.310 51d8 Generated table #33@0: 10411 keys, 763294 bytes
+2024/10/21-21:48:52.310 51d8 Compacted 2@0 + 1@1 files => 2905010 bytes
+2024/10/21-21:48:52.311 51d8 compacted to: files[ 0 2 2 0 0 0 0 ]
+2024/10/21-21:48:52.312 51d8 Delete type=2 #27
+2024/10/21-21:48:52.314 51d8 Delete type=2 #29
+2024/10/21-21:48:52.314 51d8 Delete type=2 #31
+2024/10/21-22:00:40.819 51d8 Compacting 1@1 + 1@2 files
+2024/10/21-22:00:41.001 51d8 Generated table #34@1: 20947 keys, 2136533 bytes
+2024/10/21-22:00:41.001 51d8 Compacted 1@1 + 1@2 files => 2136533 bytes
+2024/10/21-22:00:41.002 51d8 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/10/21-22:00:41.006 51d8 Delete type=2 #25
+2024/10/21-22:00:41.007 51d8 Delete type=2 #33

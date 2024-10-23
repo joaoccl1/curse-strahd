@@ -1,0 +1,25 @@
+2024/10/17-19:46:56.875 38dc Recovering log #8
+2024/10/17-19:46:56.881 38dc Delete type=0 #8
+2024/10/17-19:46:56.881 38dc Delete type=3 #6
+2024/10/17-20:29:10.082 40ec Level-0 table #13: started
+2024/10/17-20:29:10.147 40ec Level-0 table #13: 1504642 bytes OK
+2024/10/17-20:29:10.158 40ec Delete type=0 #11
+2024/10/17-21:30:06.704 40ec Level-0 table #15: started
+2024/10/17-21:30:07.001 40ec Level-0 table #15: 1466760 bytes OK
+2024/10/17-21:30:07.244 40ec Delete type=0 #12
+2024/10/18-18:57:12.724 40ec Compacting 1@1 + 1@2 files
+2024/10/18-18:57:12.828 40ec Generated table #16@1: 9813 keys, 2031674 bytes
+2024/10/18-18:57:12.828 40ec Compacted 1@1 + 1@2 files => 2031674 bytes
+2024/10/18-18:57:12.840 40ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/18-18:57:12.843 40ec Delete type=2 #13
+2024/10/18-18:57:12.844 40ec Delete type=2 #15
+2024/10/18-19:16:44.009 40ec Level-0 table #18: started
+2024/10/18-19:16:44.067 40ec Level-0 table #18: 1736026 bytes OK
+2024/10/18-19:16:44.075 40ec Delete type=0 #14
+2024/10/18-19:38:35.831 40ec Compacting 1@1 + 1@2 files
+2024/10/18-19:38:35.930 40ec Generated table #19@1: 7596 keys, 2142286 bytes
+2024/10/18-19:38:35.985 40ec Generated table #20@1: 9439 keys, 1201876 bytes
+2024/10/18-19:38:35.985 40ec Compacted 1@1 + 1@2 files => 3344162 bytes
+2024/10/18-19:38:35.998 40ec compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/18-19:38:35.998 40ec Delete type=2 #16
+2024/10/18-19:38:35.998 40ec Delete type=2 #18

@@ -1,0 +1,14 @@
+{
+  "title": "Curse of Strahd",
+  "id": "curse-strahd-p",
+  "system": "dnd5e",
+  "background": "worlds/curse-strahd-p/Wallpaper.jpg",
+  "joinTheme": "minimal",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "3.3.1",
+  "lastPlayed": "Mon Oct 21 2024 20:20:23 GMT-0300 (Horário Padrão de Brasília)"
+}
