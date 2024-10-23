@@ -1,14 +1,20 @@
 {
   "title": "Curse of Strahd",
-  "id": "curse-strahd-p",
+  "description": "<p>Uma campanha clássica de Dungeons & Dragons que coloca os jogadores contra o formidável vampiro Strahd em Baróvia, uma terra de mistério e terror.</p>",
+  "url": "https://github.com/joaoccl1/curse-strahd",
+  "version": "1.0",
   "system": "dnd5e",
+  "download": "https://github.com/joaoccl1/curse-strahd/blob/main/CurseStrahd/curse-strahd.zip",
   "background": "worlds/curse-strahd-p/Wallpaper.jpg",
-  "joinTheme": "minimal",
-  "coreVersion": "12.331",
+  "coreVersion": "11.315",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.0",
+  "id": "curse-of-strahd",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "verified": "11.315",
+    "minimum": "11"
   },
-  "systemVersion": "3.3.1",
-  "lastPlayed": "Mon Oct 21 2024 20:20:23 GMT-0300 (Horário Padrão de Brasília)"
+  "lastPlayed": "Wed Oct 23 2024 12:00:00 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 0
 }
