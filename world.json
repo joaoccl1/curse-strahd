@@ -4,6 +4,7 @@
   "url": "https://github.com/joaoccl1/curse-strahd",
   "version": "1.0",
   "system": "dnd5e",
+  "manifest": "https://github.com/joaoccl1/curse-strahd/blob/main/world.json",
   "download": "https://github.com/joaoccl1/curse-strahd/blob/main/CurseStrahd/curse-strahd.zip",
   "background": "worlds/curse-strahd-p/Wallpaper.jpg",
   "coreVersion": "11.315",
